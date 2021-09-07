@@ -106,12 +106,13 @@
               "z": 6,
               "hasOpenThreats": false,
               "privilegeLevel": "",
+              "outOfScope": false,
               "attrs": {
                 ".element-shape": {
                   "class": "element-shape hasNoOpenThreats isInScope"
                 },
                 "text": {
-                  "text": "Backend"
+                  "text": "Backend\n(Double\nboundary\nthingy)"
                 },
                 ".element-text": {
                   "class": "element-text hasNoOpenThreats isInScope"
