@@ -1506,12 +1506,12 @@
               "labels": [
                 {
                   "position": {
-                    "distance": 0.41390787310027277,
-                    "offset": -92.30732114353806
+                    "distance": 0.5083977138152538,
+                    "offset": -46.548430124286384
                   },
                   "attrs": {
                     "text": {
-                      "text": "Database boundary",
+                      "text": "Notification",
                       "font-weight": "400",
                       "font-size": "small"
                     }
@@ -1533,26 +1533,21 @@
               "type": "tm.Flow",
               "smooth": true,
               "source": {
-                "x": 1357,
-                "y": 367
+                "x": 1292,
+                "y": 384
               },
               "target": {
                 "x": 1243,
                 "y": 243
               },
-              "vertices": [
-                {
-                  "x": 1214,
-                  "y": 289
-                }
-              ],
+              "vertices": [],
               "id": "e0c651de-09e5-4b7c-93c6-a0a372e6b2ed",
               "labels": [
                 {
                   "position": 0.5,
                   "attrs": {
                     "text": {
-                      "text": "Notification",
+                      "text": "",
                       "font-weight": "400",
                       "font-size": "small"
                     }
@@ -1965,7 +1960,7 @@
                   "position": 0.5,
                   "attrs": {
                     "text": {
-                      "text": "",
+                      "text": "Contact",
                       "font-weight": "400",
                       "font-size": "small"
                     }
@@ -1973,84 +1968,6 @@
                 }
               ],
               "z": 27,
-              "hasOpenThreats": false,
-              "attrs": {
-                ".marker-target": {
-                  "class": "marker-target hasNoOpenThreats isInScope"
-                },
-                ".connection": {
-                  "class": "connection hasNoOpenThreats isInScope"
-                }
-              }
-            },
-            {
-              "type": "tm.Flow",
-              "smooth": true,
-              "source": {
-                "id": "60448dd1-ed99-44b0-b229-a09fb9f8f9ad"
-              },
-              "target": {
-                "id": "b00316a9-db47-4b25-a7fd-220aff8987f9"
-              },
-              "vertices": [
-                {
-                  "x": 859,
-                  "y": 554
-                }
-              ],
-              "id": "acc93229-862b-453a-8192-19e75436c8c7",
-              "labels": [
-                {
-                  "position": 0.5,
-                  "attrs": {
-                    "text": {
-                      "text": "",
-                      "font-weight": "400",
-                      "font-size": "small"
-                    }
-                  }
-                }
-              ],
-              "z": 28,
-              "hasOpenThreats": false,
-              "attrs": {
-                ".marker-target": {
-                  "class": "marker-target hasNoOpenThreats isInScope"
-                },
-                ".connection": {
-                  "class": "connection hasNoOpenThreats isInScope"
-                }
-              }
-            },
-            {
-              "type": "tm.Flow",
-              "smooth": true,
-              "source": {
-                "id": "2a2c2c87-c9dc-470c-9ee5-53baf936a629"
-              },
-              "target": {
-                "id": "60448dd1-ed99-44b0-b229-a09fb9f8f9ad"
-              },
-              "vertices": [
-                {
-                  "x": 899,
-                  "y": 423
-                }
-              ],
-              "id": "ecfc827c-f813-4560-aacd-cf3fe2d1da51",
-              "labels": [
-                {
-                  "position": 0.5,
-                  "attrs": {
-                    "text": {
-                      "text": "",
-                      "font-weight": "400",
-                      "font-size": "small"
-                    }
-                  }
-                }
-              ],
-              "z": 29,
               "hasOpenThreats": false,
               "attrs": {
                 ".marker-target": {
@@ -2079,10 +1996,13 @@
               "id": "828b5271-3f08-46c9-84ef-f7e77d322bf6",
               "labels": [
                 {
-                  "position": 0.5,
+                  "position": {
+                    "distance": 0.5357771738375687,
+                    "offset": 22.218665327773067
+                  },
                   "attrs": {
                     "text": {
-                      "text": "",
+                      "text": "Contacts",
                       "font-weight": "400",
                       "font-size": "small"
                     }
@@ -2509,6 +2429,43 @@
                 },
                 ".connection": {
                   "class": "connection hasNoOpenThreats isOutOfScope"
+                }
+              }
+            },
+            {
+              "type": "tm.Flow",
+              "smooth": true,
+              "source": {
+                "id": "2a2c2c87-c9dc-470c-9ee5-53baf936a629"
+              },
+              "target": {
+                "id": "60448dd1-ed99-44b0-b229-a09fb9f8f9ad"
+              },
+              "vertices": [],
+              "id": "358badbc-a58e-4a39-86bd-53a4377191f0",
+              "labels": [
+                {
+                  "position": {
+                    "distance": 1,
+                    "offset": -205
+                  },
+                  "attrs": {
+                    "text": {
+                      "text": "Database boundary",
+                      "font-weight": "400",
+                      "font-size": "small"
+                    }
+                  }
+                }
+              ],
+              "z": 42,
+              "hasOpenThreats": false,
+              "attrs": {
+                ".marker-target": {
+                  "class": "marker-target hasNoOpenThreats isInScope"
+                },
+                ".connection": {
+                  "class": "connection hasNoOpenThreats isInScope"
                 }
               }
             }
