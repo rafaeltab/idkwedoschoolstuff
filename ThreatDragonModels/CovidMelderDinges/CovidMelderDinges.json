@@ -1742,12 +1742,8 @@
                   "y": 266
                 },
                 {
-                  "x": 748,
-                  "y": 279
-                },
-                {
-                  "x": 777,
-                  "y": 193
+                  "x": 752,
+                  "y": 230
                 }
               ],
               "id": "cc6c7f65-363e-415a-b45b-9b7d3ef90706",
@@ -1829,8 +1825,8 @@
                 "height": 80
               },
               "position": {
-                "x": 415,
-                "y": 37
+                "x": 456,
+                "y": 26
               },
               "angle": 0,
               "id": "9d5be44d-10c0-44d9-86b8-f625a8950bec",
@@ -2139,8 +2135,8 @@
               "labels": [
                 {
                   "position": {
-                    "distance": 0.9091460784081742,
-                    "offset": -21.11882966216455
+                    "distance": 0.6853715833086887,
+                    "offset": -25.455577912083807
                   },
                   "attrs": {
                     "text": {
@@ -2445,7 +2441,7 @@
                   },
                   "attrs": {
                     "text": {
-                      "text": "Some id",
+                      "text": "id",
                       "font-weight": "400",
                       "font-size": "small"
                     }
@@ -2474,8 +2470,8 @@
               },
               "vertices": [
                 {
-                  "x": 359,
-                  "y": 58
+                  "x": 349,
+                  "y": 60
                 }
               ],
               "id": "5478bd6f-95eb-488e-9b1a-56b08c262d3d",
@@ -2487,7 +2483,7 @@
                   },
                   "attrs": {
                     "text": {
-                      "text": "You got rona!",
+                      "text": "Phonecall",
                       "font-weight": "400",
                       "font-size": "small"
                     }
