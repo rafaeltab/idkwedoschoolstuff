@@ -1349,7 +1349,7 @@
                   "position": 0.5,
                   "attrs": {
                     "text": {
-                      "text": "",
+                      "text": "Navigation &\nNotifications, Id",
                       "font-weight": "400",
                       "font-size": "small"
                     }
@@ -1488,7 +1488,7 @@
                   "position": 0.5,
                   "attrs": {
                     "text": {
-                      "text": "",
+                      "text": "contact if no internet",
                       "font-weight": "400",
                       "font-size": "small"
                     }
@@ -1567,8 +1567,8 @@
               "labels": [
                 {
                   "position": {
-                    "distance": 0.5490437406721576,
-                    "offset": -352.26437067342573
+                    "distance": 0.4428261475303879,
+                    "offset": -275.1658735635047
                   },
                   "attrs": {
                     "text": {
@@ -1860,7 +1860,7 @@
                   },
                   "attrs": {
                     "text": {
-                      "text": "",
+                      "text": "both ids &\nconfirmation",
                       "font-weight": "400",
                       "font-size": "small"
                     }
@@ -1980,7 +1980,7 @@
                   },
                   "attrs": {
                     "text": {
-                      "text": "",
+                      "text": "Id & Contacts",
                       "font-weight": "400",
                       "font-size": "small"
                     }
@@ -2680,6 +2680,10 @@
                   "y": 299
                 },
                 {
+                  "x": 244,
+                  "y": 424
+                },
+                {
                   "x": 231,
                   "y": 517
                 }
@@ -2758,10 +2762,13 @@
               "id": "ca2efe6c-7d98-402b-9080-aaf14793226e",
               "labels": [
                 {
-                  "position": 0.5,
+                  "position": {
+                    "distance": 0.5685818803978586,
+                    "offset": -27.305966453902037
+                  },
                   "attrs": {
                     "text": {
-                      "text": "flow 45",
+                      "text": "both id's and\nconfirmation",
                       "font-weight": "400",
                       "font-size": "small"
                     }
@@ -2800,7 +2807,7 @@
                   "position": 0.5,
                   "attrs": {
                     "text": {
-                      "text": "flow 46",
+                      "text": "",
                       "font-weight": "400",
                       "font-size": "small"
                     }
@@ -2837,12 +2844,12 @@
               "labels": [
                 {
                   "position": {
-                    "distance": 0.5475707087105991,
-                    "offset": -41.132664110720036
+                    "distance": 0.8852695827105072,
+                    "offset": 207.9102024532034
                   },
                   "attrs": {
                     "text": {
-                      "text": "flow 47",
+                      "text": "Operating System\nboundary",
                       "font-weight": "400",
                       "font-size": "small"
                     }
@@ -2879,12 +2886,12 @@
               "labels": [
                 {
                   "position": {
-                    "distance": 0.3825513564129949,
-                    "offset": 54.38296851805845
+                    "distance": 0.5806937593309656,
+                    "offset": -0.14828919279594857
                   },
                   "attrs": {
                     "text": {
-                      "text": "flow 48",
+                      "text": "Wifi exchange of\nsomekind of id",
                       "font-weight": "400",
                       "font-size": "small"
                     }
@@ -2915,10 +2922,13 @@
               "id": "4eda9ee5-2597-4d0a-94f3-f21c79f2cdeb",
               "labels": [
                 {
-                  "position": 0.5,
+                  "position": {
+                    "distance": 0.7045885187550077,
+                    "offset": 71.70869850883854
+                  },
                   "attrs": {
                     "text": {
-                      "text": "flow 49",
+                      "text": "Contact if no internet",
                       "font-weight": "400",
                       "font-size": "small"
                     }
@@ -2952,7 +2962,7 @@
                   "position": 0.5,
                   "attrs": {
                     "text": {
-                      "text": "flow 50",
+                      "text": "",
                       "font-weight": "400",
                       "font-size": "small"
                     }
