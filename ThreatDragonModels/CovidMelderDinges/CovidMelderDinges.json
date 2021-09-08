@@ -106,10 +106,10 @@
               "z": 6,
               "hasOpenThreats": false,
               "privilegeLevel": "",
-              "outOfScope": false,
+              "outOfScope": true,
               "attrs": {
                 ".element-shape": {
-                  "class": "element-shape hasNoOpenThreats isInScope"
+                  "class": "element-shape hasNoOpenThreats isOutOfScope"
                 },
                 "text": {
                   "text": "Backend\n(Double\nboundary\nthingy)"
@@ -478,16 +478,12 @@
               "type": "tm.Flow",
               "smooth": true,
               "source": {
-                "id": "983f3508-58b9-4c31-933c-c14118def1e0"
+                "id": "a28459f2-63e8-4911-93fd-310cc4f5752d"
               },
               "target": {
                 "id": "983f3508-58b9-4c31-933c-c14118def1e0"
               },
               "vertices": [
-                {
-                  "x": 158,
-                  "y": 277
-                },
                 {
                   "x": 131,
                   "y": 330
@@ -531,28 +527,12 @@
                 "id": "983f3508-58b9-4c31-933c-c14118def1e0"
               },
               "target": {
-                "id": "983f3508-58b9-4c31-933c-c14118def1e0"
+                "id": "a28459f2-63e8-4911-93fd-310cc4f5752d"
               },
               "vertices": [
                 {
                   "x": 255,
                   "y": 361
-                },
-                {
-                  "x": 168,
-                  "y": 398
-                },
-                {
-                  "x": 102,
-                  "y": 330
-                },
-                {
-                  "x": 149,
-                  "y": 259
-                },
-                {
-                  "x": 249,
-                  "y": 256
                 }
               ],
               "id": "83525e6e-320c-42e1-84c6-cfce2d496a90",
@@ -934,7 +914,7 @@
                   },
                   "attrs": {
                     "text": {
-                      "text": "API Boundary",
+                      "text": "API webserver\nBoundary",
                       "font-weight": "400",
                       "font-size": "small"
                     }
@@ -1153,11 +1133,37 @@
                   "class": "connection hasNoOpenThreats isOutOfScope"
                 }
               }
+            },
+            {
+              "type": "tm.Actor",
+              "size": {
+                "width": 160,
+                "height": 80
+              },
+              "position": {
+                "x": 19,
+                "y": 383
+              },
+              "angle": 0,
+              "id": "a28459f2-63e8-4911-93fd-310cc4f5752d",
+              "z": 36,
+              "hasOpenThreats": false,
+              "attrs": {
+                ".element-shape": {
+                  "class": "element-shape hasNoOpenThreats isInScope"
+                },
+                "text": {
+                  "text": "Phone"
+                },
+                ".element-text": {
+                  "class": "element-text hasNoOpenThreats isInScope"
+                }
+              }
             }
           ]
         },
         "size": {
-          "height": 1217.5181884765625,
+          "height": 1483.2880859375,
           "width": 2001.0474853515625
         }
       },
