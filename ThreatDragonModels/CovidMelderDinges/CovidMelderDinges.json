@@ -1130,12 +1130,12 @@
               "labels": [
                 {
                   "position": {
-                    "distance": 0.5317811544284418,
-                    "offset": 4.1914147793556475
+                    "distance": 0.5181386839488372,
+                    "offset": 5.184869605530191
                   },
                   "attrs": {
                     "text": {
-                      "text": "You got the rona!",
+                      "text": "Phonecall",
                       "font-weight": "400",
                       "font-size": "small"
                     }
