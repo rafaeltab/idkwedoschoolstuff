@@ -72,8 +72,8 @@
                 "height": 80
               },
               "position": {
-                "x": 438,
-                "y": 203
+                "x": 480,
+                "y": 193
               },
               "angle": 0,
               "id": "b5081581-0a85-4449-8764-181d8435aa98",
@@ -161,7 +161,7 @@
                   "position": 0.5,
                   "attrs": {
                     "text": {
-                      "text": "",
+                      "text": "Contacts",
                       "font-weight": "400",
                       "font-size": "small"
                     }
@@ -328,12 +328,12 @@
               "labels": [
                 {
                   "position": {
-                    "distance": 0.4235399803049424,
-                    "offset": 16.389451028813994
+                    "distance": 0.4737649063106416,
+                    "offset": -9.630114537091307
                   },
                   "attrs": {
                     "text": {
-                      "text": "Contacts",
+                      "text": "Contacts,\nNotifications &\nconfirmations",
                       "font-weight": "400",
                       "font-size": "small"
                     }
@@ -485,24 +485,20 @@
               },
               "vertices": [
                 {
-                  "x": 131,
-                  "y": 330
-                },
-                {
-                  "x": 180,
-                  "y": 363
+                  "x": 228,
+                  "y": 354
                 }
               ],
               "id": "ca7de485-e29a-424c-9536-d40a1fd09fa8",
               "labels": [
                 {
                   "position": {
-                    "distance": 0.5098937047544057,
-                    "offset": -46.033352880764745
+                    "distance": 0.47898849311683367,
+                    "offset": -29.785408539973293
                   },
                   "attrs": {
                     "text": {
-                      "text": "Bluetooth",
+                      "text": "id send & receive",
                       "font-weight": "400",
                       "font-size": "small"
                     }
@@ -531,20 +527,20 @@
               },
               "vertices": [
                 {
-                  "x": 255,
-                  "y": 361
+                  "x": 245,
+                  "y": 380
                 }
               ],
               "id": "83525e6e-320c-42e1-84c6-cfce2d496a90",
               "labels": [
                 {
                   "position": {
-                    "distance": 0.5316468973457869,
-                    "offset": 42.87789365385469
+                    "distance": 1,
+                    "offset": 133.16640454283154
                   },
                   "attrs": {
                     "text": {
-                      "text": "",
+                      "text": "Operating system\nboundary",
                       "font-weight": "400",
                       "font-size": "small"
                     }
@@ -580,10 +576,13 @@
               "id": "1e36159e-ed37-4c3d-be56-fff62922621a",
               "labels": [
                 {
-                  "position": 0.5,
+                  "position": {
+                    "distance": 0.7337512110477368,
+                    "offset": -8.72919568286507
+                  },
                   "attrs": {
                     "text": {
-                      "text": "",
+                      "text": "Navigation & id,\nnotification",
                       "font-weight": "400",
                       "font-size": "small"
                     }
@@ -618,8 +617,12 @@
                   "y": 194
                 },
                 {
-                  "x": 702,
-                  "y": 139
+                  "x": 651,
+                  "y": 154
+                },
+                {
+                  "x": 750,
+                  "y": 133
                 }
               ],
               "id": "a3428eed-9dd5-4c28-9ee1-d04509cc34a5",
@@ -753,7 +756,7 @@
                   },
                   "attrs": {
                     "text": {
-                      "text": "Login",
+                      "text": "Name, password &\nauthentication token",
                       "font-weight": "400",
                       "font-size": "small"
                     }
@@ -791,12 +794,12 @@
               "labels": [
                 {
                   "position": {
-                    "distance": 0.21817047343812904,
-                    "offset": -47.719570507468504
+                    "distance": 0.3536362696422336,
+                    "offset": -13.16749168888846
                   },
                   "attrs": {
                     "text": {
-                      "text": "Make Notification",
+                      "text": "Notification &\nconfirmation",
                       "font-weight": "400",
                       "font-size": "small"
                     }
@@ -830,7 +833,7 @@
                   "position": 0.5,
                   "attrs": {
                     "text": {
-                      "text": "",
+                      "text": "id & confirmation",
                       "font-weight": "400",
                       "font-size": "small"
                     }
@@ -867,12 +870,12 @@
               "labels": [
                 {
                   "position": {
-                    "distance": 0.4183842473905016,
-                    "offset": 30.16113195485013
+                    "distance": 0.45438744672943043,
+                    "offset": 0.8482843135323979
                   },
                   "attrs": {
                     "text": {
-                      "text": "GGD Authentication",
+                      "text": "Authentication token\nconfirmation&",
                       "font-weight": "400",
                       "font-size": "small"
                     }
@@ -987,8 +990,8 @@
               },
               "vertices": [
                 {
-                  "x": 630,
-                  "y": 330
+                  "x": 610,
+                  "y": 350
                 }
               ],
               "id": "a2f807e5-91a0-44df-b9b8-eef71789fe1c",
@@ -1065,8 +1068,8 @@
               },
               "vertices": [
                 {
-                  "x": 524,
-                  "y": 125
+                  "x": 520,
+                  "y": 104
                 }
               ],
               "id": "27dea3ab-aa58-4a8b-8445-050b7c26e07d",
@@ -1141,8 +1144,8 @@
                 "height": 80
               },
               "position": {
-                "x": 19,
-                "y": 383
+                "x": 18,
+                "y": 398
               },
               "angle": 0,
               "id": "a28459f2-63e8-4911-93fd-310cc4f5752d",
@@ -1159,6 +1162,27 @@
                   "class": "element-text hasNoOpenThreats isInScope"
                 }
               }
+            },
+            {
+              "type": "tm.Boundary",
+              "smooth": true,
+              "source": {
+                "x": 32,
+                "y": 269
+              },
+              "target": {
+                "x": 153,
+                "y": 546
+              },
+              "vertices": [
+                {
+                  "x": 203,
+                  "y": 393
+                }
+              ],
+              "id": "9fbef11a-3f0e-4145-8416-8cfc0f5f4345",
+              "z": 37,
+              "attrs": {}
             }
           ]
         },
