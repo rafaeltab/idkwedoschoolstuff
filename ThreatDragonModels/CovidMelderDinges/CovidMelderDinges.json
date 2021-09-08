@@ -1517,20 +1517,20 @@
               },
               "vertices": [
                 {
-                  "x": 817,
-                  "y": 186
+                  "x": 795,
+                  "y": 208
                 }
               ],
               "id": "6386adec-bf25-4374-b447-167d1f66616c",
               "labels": [
                 {
                   "position": {
-                    "distance": 1,
-                    "offset": 34.919010086420684
+                    "distance": 0.9577784412583087,
+                    "offset": -53.15356908087593
                   },
                   "attrs": {
                     "text": {
-                      "text": "Id",
+                      "text": "Id, authorization\ntoken & confirmation",
                       "font-weight": "400",
                       "font-size": "small"
                     }
@@ -1609,12 +1609,12 @@
               "labels": [
                 {
                   "position": {
-                    "distance": 0.6229844244112219,
-                    "offset": 6.098440897690894
+                    "distance": 0.6348477462126063,
+                    "offset": -47.615866047489206
                   },
                   "attrs": {
                     "text": {
-                      "text": "Notification",
+                      "text": "Notification &\nconfirmation",
                       "font-weight": "400",
                       "font-size": "small"
                     }
@@ -2923,8 +2923,8 @@
               "labels": [
                 {
                   "position": {
-                    "distance": 0.7045885187550077,
-                    "offset": 71.70869850883854
+                    "distance": 0.7997724525777185,
+                    "offset": 58.61041875811702
                   },
                   "attrs": {
                     "text": {
