@@ -1528,8 +1528,8 @@
               "labels": [
                 {
                   "position": {
-                    "distance": 0.9577784412583087,
-                    "offset": -53.15356908087593
+                    "distance": 1,
+                    "offset": -59.893773891310325
                   },
                   "attrs": {
                     "text": {
@@ -1570,8 +1570,8 @@
               "labels": [
                 {
                   "position": {
-                    "distance": 0.4428261475303879,
-                    "offset": -290.6763192975268
+                    "distance": 0.3613375485998153,
+                    "offset": -281.4365271166566
                   },
                   "attrs": {
                     "text": {
@@ -1724,8 +1724,8 @@
                 "y": 599
               },
               "target": {
-                "x": 837,
-                "y": 111
+                "x": 898,
+                "y": 126
               },
               "vertices": [
                 {
@@ -1737,8 +1737,16 @@
                   "y": 266
                 },
                 {
-                  "x": 752,
-                  "y": 230
+                  "x": 753,
+                  "y": 219
+                },
+                {
+                  "x": 891,
+                  "y": 197
+                },
+                {
+                  "x": 914,
+                  "y": 152
                 }
               ],
               "id": "cc6c7f65-363e-415a-b45b-9b7d3ef90706",
@@ -2092,8 +2100,8 @@
                 "height": 100
               },
               "position": {
-                "x": 660,
-                "y": 135
+                "x": 659,
+                "y": 118
               },
               "angle": 0,
               "id": "25e15628-9d20-41fc-8ff0-7f0f86b4ab44",
@@ -2104,7 +2112,7 @@
                   "class": "element-shape hasNoOpenThreats isInScope"
                 },
                 "text": {
-                  "text": "CoronaMelder\nGGD"
+                  "text": "CoronaMelder\nGGD Add\nnotification"
                 },
                 ".element-text": {
                   "class": "element-text hasNoOpenThreats isInScope"
@@ -2226,7 +2234,7 @@
               "type": "tm.Flow",
               "smooth": true,
               "source": {
-                "id": "25e15628-9d20-41fc-8ff0-7f0f86b4ab44"
+                "id": "ea0c196b-9960-424a-97d7-862da65c0b88"
               },
               "target": {
                 "id": "070481c2-5f86-4586-a95d-d86bb35dd7a5"
@@ -2272,20 +2280,20 @@
                 "id": "070481c2-5f86-4586-a95d-d86bb35dd7a5"
               },
               "target": {
-                "id": "25e15628-9d20-41fc-8ff0-7f0f86b4ab44"
+                "id": "ea0c196b-9960-424a-97d7-862da65c0b88"
               },
               "vertices": [
                 {
-                  "x": 828,
-                  "y": 71
+                  "x": 936,
+                  "y": 74
                 }
               ],
               "id": "3c8bbffc-36d1-424d-92f6-02d1d1eedf46",
               "labels": [
                 {
                   "position": {
-                    "distance": 0.5054780497303526,
-                    "offset": 12.06056230625572
+                    "distance": 0.39617925463960013,
+                    "offset": 14.514720911515015
                   },
                   "attrs": {
                     "text": {
@@ -2767,8 +2775,8 @@
               "labels": [
                 {
                   "position": {
-                    "distance": 0.5685818803978586,
-                    "offset": -27.305966453902037
+                    "distance": 0.27098594330094344,
+                    "offset": -26.073131998179427
                   },
                   "attrs": {
                     "text": {
@@ -2803,6 +2811,10 @@
                 {
                   "x": 519,
                   "y": 472
+                },
+                {
+                  "x": 504,
+                  "y": 478
                 }
               ],
               "id": "686c65e4-cbc7-4449-baad-d1809a181586",
@@ -2974,6 +2986,117 @@
                 }
               ],
               "z": 55,
+              "hasOpenThreats": false,
+              "attrs": {
+                ".marker-target": {
+                  "class": "marker-target hasNoOpenThreats isInScope"
+                },
+                ".connection": {
+                  "class": "connection hasNoOpenThreats isInScope"
+                }
+              }
+            },
+            {
+              "type": "tm.Process",
+              "size": {
+                "width": 100,
+                "height": 100
+              },
+              "position": {
+                "x": 793,
+                "y": 12
+              },
+              "angle": 0,
+              "id": "ea0c196b-9960-424a-97d7-862da65c0b88",
+              "z": 56,
+              "hasOpenThreats": false,
+              "outOfScope": false,
+              "attrs": {
+                ".element-shape": {
+                  "class": "element-shape hasNoOpenThreats isInScope"
+                },
+                "text": {
+                  "text": "CoronaMelder\nGGD Login"
+                },
+                ".element-text": {
+                  "class": "element-text hasNoOpenThreats isInScope"
+                }
+              }
+            },
+            {
+              "type": "tm.Flow",
+              "smooth": true,
+              "source": {
+                "id": "ea0c196b-9960-424a-97d7-862da65c0b88"
+              },
+              "target": {
+                "id": "25e15628-9d20-41fc-8ff0-7f0f86b4ab44"
+              },
+              "vertices": [
+                {
+                  "x": 826,
+                  "y": 141
+                }
+              ],
+              "id": "f4b0d2c3-d1a6-4aa2-a79d-eb1ff7c50333",
+              "labels": [
+                {
+                  "position": {
+                    "distance": 0.796673490914228,
+                    "offset": 33.28144377512762
+                  },
+                  "attrs": {
+                    "text": {
+                      "text": "Request &\nAuthentication code",
+                      "font-weight": "400",
+                      "font-size": "small"
+                    }
+                  }
+                }
+              ],
+              "z": 57,
+              "hasOpenThreats": false,
+              "attrs": {
+                ".marker-target": {
+                  "class": "marker-target hasNoOpenThreats isInScope"
+                },
+                ".connection": {
+                  "class": "connection hasNoOpenThreats isInScope"
+                }
+              }
+            },
+            {
+              "type": "tm.Flow",
+              "smooth": true,
+              "source": {
+                "id": "25e15628-9d20-41fc-8ff0-7f0f86b4ab44"
+              },
+              "target": {
+                "id": "ea0c196b-9960-424a-97d7-862da65c0b88"
+              },
+              "vertices": [
+                {
+                  "x": 753,
+                  "y": 95
+                }
+              ],
+              "id": "37fb5388-b09f-4a12-aeec-926b9a18d05c",
+              "labels": [
+                {
+                  "position": {
+                    "distance": 0.24400633738501037,
+                    "offset": -22.204979816318886
+                  },
+                  "attrs": {
+                    "text": {
+                      "text": "",
+                      "font-weight": "400",
+                      "font-size": "small"
+                    }
+                  }
+                }
+              ],
+              "z": 58,
               "hasOpenThreats": false,
               "attrs": {
                 ".marker-target": {
