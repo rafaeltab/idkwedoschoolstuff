@@ -407,8 +407,8 @@
               "labels": [
                 {
                   "position": {
-                    "distance": 0.16494430401814544,
-                    "offset": 201.52226044167367
+                    "distance": 0.16398318509712548,
+                    "offset": 234.54414735762384
                   },
                   "attrs": {
                     "text": {
@@ -605,8 +605,8 @@
               "type": "tm.Boundary",
               "smooth": true,
               "source": {
-                "x": 21,
-                "y": 173
+                "x": 26,
+                "y": 191
               },
               "target": {
                 "x": 791,
