@@ -1230,8 +1230,8 @@
                 "height": 100
               },
               "position": {
-                "x": 454,
-                "y": 166
+                "x": 440,
+                "y": 174
               },
               "angle": 0,
               "id": "e89ad691-5d29-4bb6-88f9-ff7e75f56b56",
@@ -1377,8 +1377,8 @@
               },
               "vertices": [
                 {
-                  "x": 292,
-                  "y": 169
+                  "x": 304,
+                  "y": 167
                 }
               ],
               "id": "6e887ebe-5a5a-4979-af12-f6698702d8f6",
@@ -2250,12 +2250,13 @@
               ],
               "z": 35,
               "hasOpenThreats": false,
+              "outOfScope": true,
               "attrs": {
                 ".marker-target": {
                   "class": "marker-target hasNoOpenThreats isInScope"
                 },
                 ".connection": {
-                  "class": "connection hasNoOpenThreats isInScope"
+                  "class": "connection hasNoOpenThreats isOutOfScope"
                 }
               }
             },
@@ -2292,12 +2293,13 @@
               ],
               "z": 36,
               "hasOpenThreats": false,
+              "outOfScope": true,
               "attrs": {
                 ".marker-target": {
                   "class": "marker-target hasNoOpenThreats isInScope"
                 },
                 ".connection": {
-                  "class": "connection hasNoOpenThreats isInScope"
+                  "class": "connection hasNoOpenThreats isOutOfScope"
                 }
               }
             },
