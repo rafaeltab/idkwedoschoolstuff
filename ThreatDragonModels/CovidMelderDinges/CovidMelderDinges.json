@@ -287,11 +287,11 @@
                 {
                   "position": {
                     "distance": 0.9544543697162899,
-                    "offset": -147.7881343043413
+                    "offset": -142.71902414751986
                   },
                   "attrs": {
                     "text": {
-                      "text": "Database boundary",
+                      "text": "Backend database\nboundary",
                       "font-weight": "400",
                       "font-size": "small"
                     }
