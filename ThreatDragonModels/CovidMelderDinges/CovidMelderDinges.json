@@ -1517,8 +1517,8 @@
               },
               "vertices": [
                 {
-                  "x": 795,
-                  "y": 208
+                  "x": 779,
+                  "y": 200
                 }
               ],
               "id": "6386adec-bf25-4374-b447-167d1f66616c",
@@ -1568,7 +1568,7 @@
                 {
                   "position": {
                     "distance": 0.4428261475303879,
-                    "offset": -275.1658735635047
+                    "offset": -290.6763192975268
                   },
                   "attrs": {
                     "text": {
@@ -2242,7 +2242,7 @@
                   },
                   "attrs": {
                     "text": {
-                      "text": "Api Boundary",
+                      "text": "Api webserver\nBoundary",
                       "font-weight": "400",
                       "font-size": "small"
                     }
@@ -2515,7 +2515,7 @@
                   },
                   "attrs": {
                     "text": {
-                      "text": "Database boundary",
+                      "text": "Backend Database\nboundary",
                       "font-weight": "400",
                       "font-size": "small"
                     }
