@@ -2209,9 +2209,10 @@
               "id": "070481c2-5f86-4586-a95d-d86bb35dd7a5",
               "z": 34,
               "hasOpenThreats": false,
+              "outOfScope": true,
               "attrs": {
                 ".element-shape": {
-                  "class": "element-shape hasNoOpenThreats isInScope"
+                  "class": "element-shape hasNoOpenThreats isOutOfScope"
                 },
                 "text": {
                   "text": "GGD Api"
