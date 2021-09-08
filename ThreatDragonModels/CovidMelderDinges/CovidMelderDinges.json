@@ -833,7 +833,7 @@
                   "position": 0.5,
                   "attrs": {
                     "text": {
-                      "text": "id & confirmation",
+                      "text": "id,login &\nconfirmation",
                       "font-weight": "400",
                       "font-size": "small"
                     }
