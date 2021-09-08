@@ -722,9 +722,10 @@
               "id": "1e222ce7-43f3-43d5-ac45-d3a762137074",
               "z": 25,
               "hasOpenThreats": false,
+              "outOfScope": true,
               "attrs": {
                 ".element-shape": {
-                  "class": "element-shape hasNoOpenThreats isInScope"
+                  "class": "element-shape hasNoOpenThreats isOutOfScope"
                 },
                 "text": {
                   "text": "CoronaMelder\nGGD"
@@ -1146,16 +1147,17 @@
                 "height": 80
               },
               "position": {
-                "x": 18,
+                "x": 19,
                 "y": 398
               },
               "angle": 0,
               "id": "a28459f2-63e8-4911-93fd-310cc4f5752d",
               "z": 36,
               "hasOpenThreats": false,
+              "outOfScope": true,
               "attrs": {
                 ".element-shape": {
-                  "class": "element-shape hasNoOpenThreats isInScope"
+                  "class": "element-shape hasNoOpenThreats isOutOfScope"
                 },
                 "text": {
                   "text": "Phone"
